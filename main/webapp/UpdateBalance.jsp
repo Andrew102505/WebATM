@@ -38,6 +38,7 @@
 			<br>
   		<button name="page" type="submit" value="Home">Home</button><!-- value should be the name of the page you want to be redirected to -->
   		<button name="page" type="submit" value="Initial">SignOut</button>
+  		<button name="page" type="submit" value = "AccountInfo">View Account Info</button>
   		
 	</form>
 	

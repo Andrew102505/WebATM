@@ -52,6 +52,7 @@
 			
   		
   		<button name="page" type="submit" value="Initial">SignOut</button>
+  		<button name="page" type="submit" value = "AccountInfo">View Account Info</button>
 
 </form> 
 </body>
