@@ -29,6 +29,8 @@
 		
 	%>
 	
+	<h2>ATM Web Services</h2>
+	<br>
 	
 	<h1>Your transaction was successfully processed!</h1>
 	
