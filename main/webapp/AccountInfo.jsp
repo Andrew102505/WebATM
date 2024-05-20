@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+
+<h2>ATM Web Services</h2>
+	<br>
+	
 	<h1>Account Info</h1>
 	<br>
 	<br>

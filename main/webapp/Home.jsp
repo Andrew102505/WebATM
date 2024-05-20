@@ -15,7 +15,8 @@
 	
 	<br>
 	<br>
-	
+	<h2>ATM Web Services</h2>
+	<br>
 	<h1>Total Balance: </h1>
 	
 	<!-- out.println((int)session.getAttribute("balance") + " dollars"); -->
